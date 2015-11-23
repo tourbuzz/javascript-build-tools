@@ -1,6 +1,6 @@
 {
-  "name": "js-app",
-  "version": "0.0.0",
+  "name": "javascript-build-tools",
+  "version": "1.0.0",
   "dependencies": {
     "broccoli-handlebars-precompiler": "^0.1.2",
     "broccoli-ng-min": "0.0.3",
