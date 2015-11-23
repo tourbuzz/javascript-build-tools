@@ -1,0 +1,53 @@
+{
+  "name": "js-app",
+  "version": "0.0.0",
+  "dependencies": {
+    "broccoli-handlebars-precompiler": "^0.1.2",
+    "broccoli-ng-min": "0.0.3",
+    "broccoli-rename-files": "0.0.3",
+    "broccoli-render-handlebars": "^0.1.0",
+    "brfs": "^1.2.0",
+    "broccoli": "^0.16.8",
+    "broccoli-asset-rev": "^2.3.0",
+    "broccoli-cli": "^1.0.0",
+    "broccoli-compass": "^0.2.4",
+    "broccoli-env": "0.0.1",
+    "broccoli-eyeglass": "^1.2.3",
+    "broccoli-fast-browserify": "^0.2.10",
+    "broccoli-funnel": "^0.2.14",
+    "broccoli-load-plugins": "^0.1.0",
+    "broccoli-merge-trees": "^0.2.4",
+    "broccoli-middleware": "git://github.com/scottdavis/broccoli-middleware.git",
+    "broccoli-static-compiler": "^0.2.2",
+    "broccoli-watchify": "^0.2.0",
+    "browserify": "^5.12.0",
+    "change-case": "^2.1.5",
+    "coffee-script": "^1.8.0",
+    "coffeeify": "^0.7.0",
+    "connect": "^3.0.1",
+    "connect-livereload": "^0.4.0",
+    "debowerify": "^0.8.1",
+    "del": "^0.1.0",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "eyeglass": "^0.6.4",
+    "globify": "git://github.com/scottdavis/globify.git",
+    "handlebars": "^3.0.3",
+    "jasmine-core": "^2.3.4",
+    "jsonschema": "git://github.com/tdegrunt/jsonschema.git",
+    "main-bower-files": "^1.0.1",
+    "md5-file": "^2.0.3",
+    "mocha": "^2.3.3",
+    "opn": "^0.1.1",
+    "optionalrequirfy": "git://github.com/scottdavis/optionalrequirfy.git",
+    "tiny-lr": "^0.2.1",
+    "yargs": "^1.3.3"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "keywords": [
+  ]
+}
